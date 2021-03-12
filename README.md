@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Check Out the live chat app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[react-chat-web](https://react-chat-web.netlify.app/).
 
 ## Available Scripts
 
